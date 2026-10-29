@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBackgroundBrush" Color="#FFF8F0"/>
+    <SolidColorBrush x:Key="TextBrush" Color="#2B2118"/>
+    <SolidColorBrush x:Key="InputBackgroundBrush" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="InputBorderBrush" Color="#D9BFA0"/>
+
+    <SolidColorBrush x:Key="AccentBrush" Color="#E8590C"/>
+    <SolidColorBrush x:Key="AccentHoverBrush" Color="#D9480F"/>
+    <SolidColorBrush x:Key="AccentPressedBrush" Color="#BF3F0B"/>
+    <SolidColorBrush x:Key="OnAccentBrush" Color="#FFFFFF"/>
+
+    <SolidColorBrush x:Key="SecondaryBrush" Color="#FDE8D3"/>
+    <SolidColorBrush x:Key="SecondaryHoverBrush" Color="#F9D5B3"/>
+
+    <SolidColorBrush x:Key="DangerBrush" Color="#C92A2A"/>
+    <SolidColorBrush x:Key="DangerHoverBrush" Color="#A61E1E"/>
+    <SolidColorBrush x:Key="DangerPressedBrush" Color="#861818"/>
+    <SolidColorBrush x:Key="OnDangerBrush" Color="#FFFFFF"/>
+
+    <SolidColorBrush x:Key="DisabledBackgroundBrush" Color="#E6E0D8"/>
+    <SolidColorBrush x:Key="DisabledForegroundBrush" Color="#A39A8E"/>
+</ResourceDictionary>
